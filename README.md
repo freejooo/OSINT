@@ -1,6 +1,9 @@
 # OSINT
 Shodan is the Search Engine for IPs, not Google (lulz)
 
+
+https://www.youtube.com/watch?v=SMxya-M6KhU
+
 Great Resources/Shout outs:
 https://lockfale.com
 https://twitter.com/jnordine
